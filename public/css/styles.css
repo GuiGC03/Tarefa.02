@@ -1,0 +1,49 @@
+/* Estilo para o título principal */
+html,   body {
+    background-image: url("../imagens/fundo-medieval.png");
+}
+
+h1 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 48px;
+  color: #775b3d;
+  text-shadow: 2px 2px #4d4d4d;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  margin: 20px 0;
+  text-align: center;
+}
+
+/* Estilo para o subtítulo */
+h2 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 32px;
+  color: #4d4d4d;
+  text-shadow: 1px 1px #b5885c;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  margin: 20px 0;
+}
+
+/* Estilo para o parágrafo */
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color: #4d4d4d;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+p#home {
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    color: #4d4d4d;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: justify;
+    text-align: center;
+  }
+
+
+
